@@ -1,16 +1,0 @@
-
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(Ç¯òåúÿÿÿÿ8µÉüÈƒ2
-\
-java:S2479
-":Remove the non-escaped \u3000 character from this literal.(Ç¯òåúÿÿÿÿ8µÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Çé‡Í8µÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ëßğ±8µÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ü¥ğ8¶ÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(»Ñû€8¶ÉüÈƒ2
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ®Ái8¶ÉüÈƒ2
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(–å°Øıÿÿÿÿ8¶ÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(®Ç’—8¶ÉüÈƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç»ûş8óÔŠÉƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(«­–•8„ÏŸÉƒ2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Øãæ¸8æã¡Éƒ2

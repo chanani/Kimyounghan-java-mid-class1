@@ -1,10 +1,0 @@
-
-\
-java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(ÚêâÒ
-6
-java:S2129" Remove this "String" constructor(ÚêâÒ
-5
-java:S2129" Remove this "String" constructor(‰Œóo
-N	java:S106"9Replace this use of System.out or System.err by a logger.(éè÷
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¬Öšüÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ï÷Èº

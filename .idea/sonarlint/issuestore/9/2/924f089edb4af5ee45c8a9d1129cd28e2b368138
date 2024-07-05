@@ -1,9 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8√≈¥∆á2
-W
-java:S1854":Remove this useless assignment to local variable "result".(¥√ºæ8÷≤π∆á2
-]	java:S125"<This block of commented-out lines of code should be removed.(∑—√Œ˙ˇˇˇˇ8…ˆ¥∆á2
-H
-java:S1481"+Remove this unused "result" local variable.(¥√ºæ8ÿ≤π∆á2
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ã¥à8Õ≈¥∆á2
