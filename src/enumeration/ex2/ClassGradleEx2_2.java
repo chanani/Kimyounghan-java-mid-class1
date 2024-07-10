@@ -6,10 +6,10 @@ public class ClassGradleEx2_2 {
         int price = 10000;
 
         DiscountService discountService = new DiscountService();
-        ClassGrade newClassGrade = new ClassGrade(); // x009
-        int result = discountService.discount(newClassGrade, price);
-
-        System.out.println("newClassGrade 등급의 할인 금액 : " + result);
+//        ClassGrade newClassGrade = new ClassGrade(); // x009
+//        int result = discountService.discount(newClassGrade, price);
+//
+//        System.out.println("newClassGrade 등급의 할인 금액 : " + result);
 
     }
 }
