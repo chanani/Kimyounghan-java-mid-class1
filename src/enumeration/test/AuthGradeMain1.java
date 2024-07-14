@@ -1,4 +1,4 @@
-package enumeration.test.ex1;
+package enumeration.test;
 
 import enumeration.test.AuthGrade;
 
