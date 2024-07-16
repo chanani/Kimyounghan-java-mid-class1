@@ -17,6 +17,12 @@ public class HttpStatusMain {
             System.out.println("isSuccess = " + status.isSuccess());
         }
 
+        HttpStatus status1 = HttpStatus.valueOf("OK");
+        System.out.println("status1 Code = " + status1.getCode());
+        System.out.println("status1 Message = " + status1.getMessage());
 
+        HttpStatus status2 = HttpStatus.OK;
+        System.out.println("status2 Code = " + status2.getCode());
+        System.out.println("status2 Message = " + status2.getMessage());
     }
 }
