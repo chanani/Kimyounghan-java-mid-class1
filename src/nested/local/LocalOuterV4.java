@@ -3,6 +3,7 @@ package nested.local;
 import java.lang.reflect.Field;
 
 public class LocalOuterV4 {
+    // 지역 클래스가 접근하는 지역 변수의 값은 변경하면 안된다.
 
     private int outInstanceVar = 3;
 
